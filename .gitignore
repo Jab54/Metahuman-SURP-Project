@@ -1,0 +1,37 @@
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+.vs/
+DerivedDataCache/
+Plugins/Marketplace/
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.dll
+*.lib
+
+# Temporary files
+*.tmp
+*.log
